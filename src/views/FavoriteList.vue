@@ -1,7 +1,7 @@
 <template>
   <div class="container mt-5">
     <div class="row" id="data-panel">
-      <div v-for="product in products" class="col-sm-3 fav-products">
+      <div v-for="product in products" :key="product" class="col-sm-3 fav-products">
         <div class="card mb-2">
           <img
             class="card-img-top"
@@ -47,13 +47,13 @@
 
 <script setup>
 import { reactive, ref } from "@vue/reactivity";
-import { onBeforeMount } from "@vue/runtime-core";
+import { onMounted } from "@vue/runtime-core";
 import ProductInfo from "../components/ProductInfo.vue";
 
 const products = reactive([]);
 const showInfo = ref(false);
 const moreInfo = ref('')
-onBeforeMount(() => {
+onMounted(() => {
   const data = JSON.parse(localStorage.getItem("makeup-app-vue"));
   data.forEach((e) => {
     products.push(e);

@@ -19,7 +19,11 @@
 
   <div class="container mt-5">
     <div class="row" id="data-panel">
-      <div class="col-sm-3" v-for="product in filterProducts" :key="product.id">
+      <div class="col-sm-3 card_wrapper" 
+        v-for="product in filterProducts" 
+        :key="product.id" 
+        :class="{ 'display': product.page === currentPage }"
+      > 
         <div class="card mb-2">
           <img class="card-img-top" alt="Card image cap" :src="product.image_link" />
           <div class="card-body product-item-body">
@@ -60,7 +64,7 @@
 
 <script setup>
 import { reactive, ref } from "@vue/reactivity";
-import { computed, onBeforeMount } from "@vue/runtime-core";
+import { computed, onBeforeMount, onMounted } from "@vue/runtime-core";
 import axios from "axios";
 import ProductInfo from "../components/ProductInfo.vue";
 
@@ -70,8 +74,12 @@ import ProductInfo from "../components/ProductInfo.vue";
 const props = defineProps({
   products: {
     type: Array,
-    default: [],
+    required: true,
   },
+  currentPage: {
+    type: Number,
+    required: true,
+  }
 });
 // const products = reactive([]);
 const searchProductName = ref("");
@@ -128,10 +136,19 @@ const addFavorite= (id) => {
       list.push(product);
       localStorage.setItem("makeup-app-vue", JSON.stringify(list));
     }
+
 </script>
 
 <style scoped>
 .container{
   background: transparent;
+}
+
+.card_wrapper{
+  display: none;
+}
+
+.display{
+  display: block;
 }
 </style>

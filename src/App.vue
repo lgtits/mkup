@@ -1,7 +1,7 @@
 <template>
   <div id="restaurant-forum">
     <Navbar />
-    <main role="main" class="mt-5 bg-white">
+    <main role="main" class="mt-5">
       <RouterView />
     </main>
   </div>
