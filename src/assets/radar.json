@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Bam the BAM - ElectroMagnetic Fault Injection",
+    "ring": "週",
+    "quadrant": "軟體靭體",
+    "isNew": "TRUE",
+    "description":  "Tell me why."
+  },
+    {
+    "name": "Bam the BAM - ElectroMagnetic Fault Injection",
+    "ring": "月",
+    "quadrant": "電子硬體",
+    "isNew": "TRUE",
+    "description":  "Tell me why."
+  },  {
+    "name": "Bam the BAM - ElectroMagnetic Fault Injection",
+    "ring": "季",
+    "quadrant": "通訊感測",
+    "isNew": "TRUE",
+    "description":  "Tell me why."
+  },  {
+    "name": "Bam the BAM - ElectroMagnetic Fault Injection",
+    "ring": "年",
+    "quadrant": "汽車產業",
+    "isNew": "TRUE",
+    "description":  "Tell me why."
+  }
+]
