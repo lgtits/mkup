@@ -1,28 +1,107 @@
 [
-  {
-    "name": "Bam the BAM - ElectroMagnetic Fault Injection",
-    "ring": "週",
-    "quadrant": "軟體靭體",
-    "isNew": "TRUE",
-    "description":  "Tell me why."
-  },
-    {
-    "name": "Bam the BAM - ElectroMagnetic Fault Injection",
-    "ring": "月",
-    "quadrant": "電子硬體",
-    "isNew": "TRUE",
-    "description":  "Tell me why."
-  },  {
-    "name": "Bam the BAM - ElectroMagnetic Fault Injection",
-    "ring": "季",
-    "quadrant": "通訊感測",
-    "isNew": "TRUE",
-    "description":  "Tell me why."
-  },  {
-    "name": "Bam the BAM - ElectroMagnetic Fault Injection",
-    "ring": "年",
-    "quadrant": "汽車產業",
-    "isNew": "TRUE",
-    "description":  "Tell me why."
-  }
+{
+"name": "Bam the BAM - ElectroMagnetic Fault Injection",
+"ring": "週",
+"quadrant": "軟體靭體",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Binary-Level Fault Injection (BLFI) for AUTOSAR",
+"ring": "月",
+"quadrant": "電子硬體",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Construction of sfiCAN - Star-based Fault-injection",
+"ring": "季",
+"quadrant": "通訊感測",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Controller Area Network Intrusion Prevention",
+"ring": "年",
+"quadrant": "汽車產業",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Design of Fault Injection Test System based on CAN",
+"ring": "週",
+"quadrant": "通訊感測",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "DoS Attacks on Controller Area Networks by Fault",
+"ring": "月",
+"quadrant": "汽車產業",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Fault Finding System for Vehicle using I2C Bus",
+"ring": "季",
+"quadrant": "軟體靭體",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Fault Injection Ecosystem for Assisted Safety",
+"ring": "年",
+"quadrant": "通訊感測",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Fault Injection in the Automotive Standard ISO",
+"ring": "週",
+"quadrant": "汽車產業",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Fault Injection on Automotive Diagnostic Protocols",
+"ring": "月",
+"quadrant": "電子硬體",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "From Safety Analysis to Experimental Validation by",
+"ring": "季",
+"quadrant": "軟體靭體",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "From Safety Analysis to Experimental Validation by",
+"ring": "年",
+"quadrant": "電子硬體",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "PatchVerif - Discovering Faulty Patches in Robotic",
+"ring": "週",
+"quadrant": "通訊感測",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Power Analysis and Fault Attacks against Secure",
+"ring": "月",
+"quadrant": "軟體靭體",
+"isNew": "TRUE",
+"description": "Tell me why."
+},
+{
+"name": "Qualitative Evaluation of Fault Hypotheses with",
+"ring": "季",
+"quadrant": "汽車產業",
+"isNew": "TRUE",
+"description": "Tell me why."
+}
 ]
