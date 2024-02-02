@@ -1,184 +1,184 @@
-[
+1[
 {
 "name": "Bam the BAM - ElectroMagnetic Fault Injection",
 "ring": "週",
 "quadrant": "軟體靭體",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Binary-Level Fault Injection (BLFI) for AUTOSAR",
 "ring": "週",
 "quadrant": "電子硬體",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Construction of sfiCAN - Star-based Fault-injection",
 "ring": "兩個月",
 "quadrant": "通訊感測",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Controller Area Network Intrusion Prevention",
 "ring": "三個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Design of Fault Injection Test System based on CAN",
 "ring": "週",
 "quadrant": "通訊感測",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "DoS Attacks on Controller Area Networks by Fault",
 "ring": "一個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Fault Finding System for Vehicle using I2C Bus",
 "ring": "兩個月",
 "quadrant": "軟體靭體",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Fault Injection Ecosystem for Assisted Safety",
 "ring": "三個月",
 "quadrant": "通訊感測",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Fault Injection in the Automotive Standard ISO",
 "ring": "週",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Fault Injection on Automotive Diagnostic Protocols",
 "ring": "一個月",
 "quadrant": "電子硬體",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "From Safety Analysis to Experimental Validation by",
 "ring": "兩個月",
 "quadrant": "軟體靭體",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "From Safety Analysis to Experimental Validation by",
 "ring": "三個月",
 "quadrant": "電子硬體",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "PatchVerif - Discovering Faulty Patches in Robotic",
 "ring": "週",
 "quadrant": "通訊感測",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Power Analysis and Fault Attacks against Secure",
 "ring": "一個月",
 "quadrant": "軟體靭體",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "兩個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "三個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "三個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "一個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "兩個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "三個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "一個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "兩個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "三個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "三個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "三個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 },
 {
 "name": "Qualitative Evaluation of Fault Hypotheses with",
 "ring": "三個月",
 "quadrant": "汽車產業",
 "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-"date": "2024-02-02"
+"date": "2024.02.02"
 }
 ]
