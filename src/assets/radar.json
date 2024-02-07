@@ -9,7 +9,7 @@
     "name": "Binary-Level Fault Injection (BLFI) for AUTOSAR",
     "quadrant": "電子硬體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-15"
+    "date": "2024-01-05"
   },
   {
     "name": "Construction of sfiCAN - Star-based Fault-injection",
@@ -45,7 +45,7 @@
     "name": "Fault Injection Ecosystem for Assisted Safety",
     "quadrant": "通訊感測",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-29"
+    "date": "2024-01-25"
   },
   {
     "name": "Fault Injection in the Automotive Standard ISO",
