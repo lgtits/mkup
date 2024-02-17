@@ -3,13 +3,13 @@
     "name": "Bam the BAM - ElectroMagnetic Fault Injection",
     "quadrant": "軟體靭體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-01-31"
+    "date": "2024-02-15"
   },
   {
     "name": "Binary-Level Fault Injection (BLFI) for AUTOSAR",
     "quadrant": "電子硬體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-26"
+    "date": "2024-2-16"
   },
   {
     "name": "Construction of sfiCAN - Star-based Fault-injection",
@@ -21,13 +21,13 @@
     "name": "Controller Area Network Intrusion Prevention",
     "quadrant": "汽車產業",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-01-31"
+    "date": "2024-01-17"
   },
   {
     "name": "Design of Fault Injection Test System based on CAN",
     "quadrant": "通訊感測",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-01-22"
+    "date": "2024-01-16"
   },
   {
     "name": "DoS Attacks on Controller Area Networks by Fault",
@@ -39,13 +39,13 @@
     "name": "Fault Finding System for Vehicle using I2C Bus",
     "quadrant": "軟體靭體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-05"
+    "date": "2024-01-10"
   },
   {
     "name": "Fault Injection Ecosystem for Assisted Safety",
     "quadrant": "通訊感測",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-14"
+    "date": "2024-01-20"
   },
   {
     "name": "Fault Injection in the Automotive Standard ISO",
