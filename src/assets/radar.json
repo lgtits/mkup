@@ -3,91 +3,91 @@
     "name": "Bam the BAM - ElectroMagnetic Fault Injection",
     "quadrant": "軟體靭體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-02-02"
+    "date": "2024-01-31"
   },
   {
     "name": "Binary-Level Fault Injection (BLFI) for AUTOSAR",
     "quadrant": "電子硬體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-01-05"
+    "date": "2023-11-26"
   },
   {
     "name": "Construction of sfiCAN - Star-based Fault-injection",
     "quadrant": "通訊感測",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-03"
+    "date": "2023-11-14"
   },
   {
     "name": "Controller Area Network Intrusion Prevention",
     "quadrant": "汽車產業",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-02-08"
+    "date": "2024-01-31"
   },
   {
     "name": "Design of Fault Injection Test System based on CAN",
     "quadrant": "通訊感測",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-01-08"
+    "date": "2024-01-22"
   },
   {
     "name": "DoS Attacks on Controller Area Networks by Fault",
     "quadrant": "汽車產業",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-25"
+    "date": "2023-11-20"
   },
   {
     "name": "Fault Finding System for Vehicle using I2C Bus",
     "quadrant": "軟體靭體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-12"
+    "date": "2023-11-05"
   },
   {
     "name": "Fault Injection Ecosystem for Assisted Safety",
     "quadrant": "通訊感測",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-01-25"
+    "date": "2023-12-14"
   },
   {
     "name": "Fault Injection in the Automotive Standard ISO",
     "quadrant": "汽車產業",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-02-02"
+    "date": "2024-01-31"
   },
   {
     "name": "Fault Injection on Automotive Diagnostic Protocols",
     "quadrant": "電子硬體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-18"
+    "date": "2023-12-04"
   },
   {
     "name": "From Safety Analysis to Experimental Validation by",
     "quadrant": "軟體靭體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-05"
+    "date": "2023-11-26"
   },
   {
     "name": "From Safety Analysis to Experimental Validation by",
     "quadrant": "電子硬體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2024-02-10"
+    "date": "2024-02-08"
   },
   {
     "name": "PatchVerif - Discovering Faulty Patches in Robotic",
     "quadrant": "通訊感測",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-11"
+    "date": "2023-11-19"
   },
   {
     "name": "Power Analysis and Fault Attacks against Secure",
     "quadrant": "軟體靭體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-04"
+    "date": "2023-11-12"
   },
   {
     "name": "Qualitative Evaluation of Fault Hypotheses with",
     "quadrant": "汽車產業",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-17"
+    "date": "2023-11-29"
   },
   {
     "name": "Qualitative Evaluation of Fault Hypotheses with",
@@ -99,108 +99,78 @@
     "name": "Qualitative Evaluation of Fault Hypotheses with",
     "quadrant": "汽車產業",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-19"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "汽車產業",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-02"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "電子硬體",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-09"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "軟體靭體",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
     "date": "2023-11-28"
   },
   {
     "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "通訊感測",
+    "quadrant": "汽車產業",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-16"
+    "date": "2023-11-24"
   },
   {
     "name": "Qualitative Evaluation of Fault Hypotheses with",
     "quadrant": "電子硬體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-14"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "通訊感測",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-05"
+    "date": "2023-11-21"
   },
   {
     "name": "Qualitative Evaluation of Fault Hypotheses with",
     "quadrant": "軟體靭體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-18"
+    "date": "2023-11-30"
+  },
+  {
+    "name": "Qualitative Evaluation of Fault Hypotheses with",
+    "quadrant": "通訊感測",
+    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
+    "date": "2023-12-15"
+  },
+  {
+    "name": "Qualitative Evaluation of Fault Hypotheses with",
+    "quadrant": "電子硬體",
+    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
+    "date": "2023-11-23"
+  },
+  {
+    "name": "Qualitative Evaluation of Fault Hypotheses with",
+    "quadrant": "通訊感測",
+    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
+    "date": "2023-12-06"
+  },
+  {
+    "name": "Qualitative Evaluation of Fault Hypotheses with",
+    "quadrant": "軟體靭體",
+    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
+    "date": "2023-11-27"
+  },
+  {
+    "name": "Qualitative Evaluation of Fault Hypotheses with",
+    "quadrant": "電子硬體",
+    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
+    "date": "2023-11-25"
+  },
+  {
+    "name": "Qualitative Evaluation of Fault Hypotheses with",
+    "quadrant": "通訊感測",
+    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
+    "date": "2023-11-22"
+  },
+  {
+    "name": "Qualitative Evaluation of Fault Hypotheses with",
+    "quadrant": "軟體靭體",
+    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
+    "date": "2023-12-14"
   },
   {
     "name": "Qualitative Evaluation of Fault Hypotheses with",
     "quadrant": "汽車產業",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-11"
+    "date": "2023-12-07"
   },
   {
     "name": "Qualitative Evaluation of Fault Hypotheses with",
     "quadrant": "軟體靭體",
     "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-04"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "汽車產業",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-09"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "通訊感測",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-16"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "電子硬體",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-14"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "軟體靭體",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-28"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "電子硬體",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-26"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "電子硬體",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-19"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "軟體靭體",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-11-17"
-  },
-  {
-    "name": "Qualitative Evaluation of Fault Hypotheses with",
-    "quadrant": "軟體靭體",
-    "url": "http://portal.stg.kuku.succ.work/zh/document/document_pre_0f1273ce5cabb05208eadb692ba048ab9560e1a346c8827e32bbcd5355f94b04",
-    "date": "2023-12-02"
+    "date": "2023-12-01"
   }
 ]
