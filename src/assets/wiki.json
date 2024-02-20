@@ -1,0 +1,10 @@
+[
+    {
+      block_id: 1,
+      block_name: 'wiki内容',
+      block_type: 'wiki',
+      data_category: 'any',
+      content: 'any',
+      limited: false,
+    },
+]
