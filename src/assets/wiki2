@@ -1,0 +1,83 @@
+[
+  {
+    "block_id": 1,
+    "block_name": "wiki",
+    "block_type": "wiki2",
+    "data_category": "test",
+    "content": "test",
+    "limited": false
+  },
+  {
+    "block_id": 2,
+    "block_name": "文件",
+    "block_type": "resource",
+    "data_category": "attachments",
+    "content": [
+      {
+        "name": "關聯文件",
+        "title": "標題",
+        "url": "url"
+      }
+    ],
+    "limited": false
+  },
+  {
+    "block_id": 3,
+    "block_name": "連結",
+    "block_type": "resource",
+    "data_category": "links",
+    "content": [
+      {
+        "name": "關聯連結",
+        "title": "標題",
+        "url": "url"
+      }
+    ],
+    "limited": false
+  },
+  {
+    "block_id": 4,
+    "block_name": "關聯元件",
+    "block_type": "recommend",
+    "data_category": "components",
+    "content": [
+      {
+        "name": "關聯連結",
+        "url": "url",
+        "data_key": "標題"
+      }
+    ],
+    "limited": false
+  },
+  {
+    "block_id": 5,
+    "block_name": "關聯文件",
+    "block_type": "recommend",
+    "data_category": "documents",
+    "content": [
+      {
+        "data_key": "string",
+        "conference": "會議名稱",
+        "manufacturer": "製造商",
+        "partNumber": "p1234567",
+        "file": "文件名稱",
+        "date": "2024-02-17"
+      }
+    ],
+    "limited": false
+  },
+  {
+    "block_id": 6,
+    "block_name": "關聯標簽",
+    "block_type": "recommend",
+    "data_category": "issues",
+    "content": [
+      {
+        "name": "關聯標簽",
+        "data_key": "string",
+        "url": "url"
+      }
+    ],
+    "limited": false
+  }
+]
