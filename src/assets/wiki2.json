@@ -1,4 +1,6 @@
-[
+{
+  "title": "wiki2",
+  "templates": [
   {
     "block_id": 1,
     "block_name": "wiki2",
@@ -81,3 +83,5 @@
     "limited": false
   }
 ]
+
+}
