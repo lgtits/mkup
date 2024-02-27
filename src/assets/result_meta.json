@@ -41,20 +41,10 @@
   ],
   "result2_title": "安全問題",
   "result2": [
-    {
-      "block_name": "",
-      "block_type": "report",
-      "block_id": 7,
-      "data_category": "report_list"
-    }
+
   ],
   "result3_title": "工程模式",
   "result3": [
-    {
-      "block_name": "工程模式",
-      "block_type": "wiki",
-      "block_id": 1,
-      "data_category": "document"
-    }
+
   ]
 }
