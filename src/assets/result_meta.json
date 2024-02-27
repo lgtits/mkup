@@ -1,5 +1,4 @@
 {
-  "result":{
   "page_title": "document.name",
   "result_title": "文件資訊",
   "result": [
@@ -58,5 +57,4 @@
       "data_category": "document"
     }
   ]
-}
 }
