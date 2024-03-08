@@ -13,12 +13,30 @@
         "color": "red",
         "content": [
           "AS3.1",
+          "AS6.1",
+          "AS9.2",
+          "AS11.1",
+          "AS11.2",
+          "AS13.1",
+          "AS14.1",
+          "AS14.2",
+          "AS20.3"
         ]
       },
       {
         "color": "red",
         "content": [
           "AS1.3",
+          "AS1.4",
+          "AS2.1",
+          "AS3.3",
+          "AS20.1",
+          "AS20.2",
+          "AS21.1",
+          "AS21.2",
+          "AS21.3",
+          "AS22.1",
+          "AS22.2"
         ]
       }
     ],
@@ -27,7 +45,7 @@
       { "color": "yellow", "content": [] },
       {
         "color": "orange",
-        "content": ["AS3.4"]
+        "content": ["AS3.4", "AS5.2", "AS5.3", "AS6.2", "AS6.3", "AS7.1"]
       },
       {
         "color": "orange",
@@ -39,7 +57,7 @@
       { "color": "green", "content": [] },
       {
         "color": "yellow",
-        "content": ["AS7.2"]
+        "content": ["AS7.2", "AS7.3", "AS12.2", "AS13.2"]
       },
       { "color": "yellow", "content": [] }
     ]
