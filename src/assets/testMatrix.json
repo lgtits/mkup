@@ -1,0 +1,47 @@
+{
+  "content": [
+    [
+      { "color": "yellow", "content": [] },
+      { "color": "orange", "content": ["AS8.1", "AS8.2"] },
+      { "color": "red", "content": ["AS1.1", "AS5.1", "AS9.1"] },
+      { "color": "maroon", "content": [] }
+    ],
+    [
+      { "color": "yellow", "content": [] },
+      { "color": "orange", "content": ["AS12.1"] },
+      {
+        "color": "red",
+        "content": [
+          "AS3.1",
+        ]
+      },
+      {
+        "color": "red",
+        "content": [
+          "AS1.3",
+        ]
+      }
+    ],
+    [
+      { "color": "green", "content": [] },
+      { "color": "yellow", "content": [] },
+      {
+        "color": "orange",
+        "content": ["AS3.4"]
+      },
+      {
+        "color": "orange",
+        "content": ["AS1.2", "AS3.2", "AS4.1", "AS4.2"]
+      }
+    ],
+    [
+      { "color": "green", "content": [] },
+      { "color": "green", "content": [] },
+      {
+        "color": "yellow",
+        "content": ["AS7.2"]
+      },
+      { "color": "yellow", "content": [] }
+    ]
+  ]
+}
