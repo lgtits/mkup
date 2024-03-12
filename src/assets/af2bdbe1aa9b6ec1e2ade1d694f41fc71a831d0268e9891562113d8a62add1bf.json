@@ -1,0 +1,50 @@
+{
+  "page_title": "document.name",
+  "result_title": "文件資訊",
+  "result": [
+    {
+      "block_name": "文件資訊",
+      "block_type": "wiki",
+      "block_id": 1,
+      "data_category": "document"
+    },
+    {
+      "block_name": "元件標籤",
+      "block_type": "recommend",
+      "block_id": 2,
+      "data_category": "components"
+    },
+    {
+      "block_name": "安全標籤",
+      "block_type": "recommend",
+      "block_id": 3,
+      "data_category": "issues"
+    },
+    {
+      "block_name": "文件關聯",
+      "block_type": "recommend",
+      "block_id": 4,
+      "data_category": "documents"
+    },
+    {
+      "block_name": "文件連結(外部)",
+      "block_type": "resource",
+      "block_id": 6,
+      "data_category": "attachments"
+    },
+    {
+      "block_name": "媒體連結(外部)",
+      "block_type": "resource",
+      "block_id": 5,
+      "data_category": "links"
+    }
+  ],
+  "result2_title": "安全問題",
+  "result2": [
+
+  ],
+  "result3_title": "工程模式",
+  "result3": [
+
+  ]
+}
