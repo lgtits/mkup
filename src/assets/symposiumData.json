@@ -1,0 +1,42 @@
+[
+  [
+    {
+        "id": "1",
+        "manufacturer":"TOYOTA",
+        "model":"camry",
+        "S":"O",
+        "F":"O",
+        "O":"O",
+        "P":"O"
+      },
+      {
+        "id": "2",
+        "manufacturer":"TOYOTA",
+        "model":"altis",
+        "S":"O",
+        "F":"O",
+        "O":"O",
+        "P":"O"
+      },
+  ],
+  [
+    {
+        "id": "3",
+        "manufacturer":"TESLA",
+        "model":"model3",
+        "S":"O",
+        "F":"O",
+        "O":"O",
+        "P":"O"
+      },
+      {
+        "id": "4",
+        "manufacturer":"TESLA",
+        "model":"modelY",
+        "S":"O",
+        "F":"O",
+        "O":"O",
+        "P":"O"
+      },
+  ],
+]
