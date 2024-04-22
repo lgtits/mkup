@@ -1,6 +1,6 @@
 {
   "symposiumId": "s1",
-  "symposiumName":"Symposium on Vehicle Security and Privacy (VehicleSec) 2024 Program",
+  "symposiumName": "Symposium on Vehicle Security and Privacy (VehicleSec) 2024 Program",
   "symposiumDate": "2024-02-26",
   "symposiumDocuments": [
     {
@@ -8,36 +8,40 @@
       "documentName": "AVMON: Securing Autonomous Vehicles by Learning Control Invariants and Residual Prediction (Long)",
       "risks": [
         {
-          "id": "1",
+          "riskId": "r1",
           "manufacturer": "TOYOTA",
           "model": "camry",
+          "hierarchy": "vehicle",
           "S": "O",
           "F": "O",
           "O": "O",
           "P": "O"
         },
         {
-          "id": "2",
+          "riskId": "r2",
           "manufacturer": "TOYOTA",
           "model": "altis",
+          "hierarchy": "system",
           "S": "O",
           "F": "O",
           "O": "O",
           "P": "O"
         },
         {
-          "id": "3",
+          "riskId": "r3",
           "manufacturer": "TESLA",
           "model": "model3",
+          "hierarchy": "system",
           "S": "O",
           "F": "O",
           "O": "O",
           "P": "O"
         },
         {
-          "id": "4",
+          "riskId": "r4",
           "manufacturer": "TESLA",
           "model": "modelY",
+          "hierarchy": "component",
           "S": "O",
           "F": "O",
           "O": "O",
@@ -51,27 +55,30 @@
       "documentName": "On the Vulnerability of Traffic Light Recognition Systems to Laser Illumination Attacks (Short)",
       "risks": [
         {
-          "id": "2",
+          "riskId": "r5",
           "manufacturer": "TOYOTA",
           "model": "altis",
+          "hierarchy": "vehicle",
           "S": "O",
           "F": "O",
           "O": "O",
           "P": "O"
         },
         {
-          "id": "3",
+          "riskId": "r6",
           "manufacturer": "TESLA",
           "model": "model3",
+          "hierarchy": "system",
           "S": "O",
           "F": "O",
           "O": "O",
           "P": "O"
         },
         {
-          "id": "4",
+          "riskId": "r7",
           "manufacturer": "TESLA",
           "model": "modelY",
+          "hierarchy": "component",
           "S": "O",
           "F": "O",
           "O": "O",
