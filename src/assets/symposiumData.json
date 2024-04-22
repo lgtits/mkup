@@ -1,42 +1,83 @@
-[
-  [
+{
+  "symposiumId": "s1",
+  "symposiumName":"Symposium on Vehicle Security and Privacy (VehicleSec) 2024 Program",
+  "symposiumDate": "2024-02-26",
+  "symposiumDocuments": [
     {
-      "id": "1",
-      "manufacturer": "TOYOTA",
-      "model": "camry",
-      "S": "O",
-      "F": "O",
-      "O": "O",
-      "P": "O"
+      "documentId": "d1",
+      "documentName": "AVMON: Securing Autonomous Vehicles by Learning Control Invariants and Residual Prediction (Long)",
+      "risks": [
+        {
+          "id": "1",
+          "manufacturer": "TOYOTA",
+          "model": "camry",
+          "S": "O",
+          "F": "O",
+          "O": "O",
+          "P": "O"
+        },
+        {
+          "id": "2",
+          "manufacturer": "TOYOTA",
+          "model": "altis",
+          "S": "O",
+          "F": "O",
+          "O": "O",
+          "P": "O"
+        },
+        {
+          "id": "3",
+          "manufacturer": "TESLA",
+          "model": "model3",
+          "S": "O",
+          "F": "O",
+          "O": "O",
+          "P": "O"
+        },
+        {
+          "id": "4",
+          "manufacturer": "TESLA",
+          "model": "modelY",
+          "S": "O",
+          "F": "O",
+          "O": "O",
+          "P": "O"
+        }
+      ]
     },
+
     {
-      "id": "2",
-      "manufacturer": "TOYOTA",
-      "model": "altis",
-      "S": "O",
-      "F": "O",
-      "O": "O",
-      "P": "O"
-    }
-  ],
-  [
-    {
-      "id": "3",
-      "manufacturer": "TESLA",
-      "model": "model3",
-      "S": "O",
-      "F": "O",
-      "O": "O",
-      "P": "O"
-    },
-    {
-      "id": "4",
-      "manufacturer": "TESLA",
-      "model": "modelY",
-      "S": "O",
-      "F": "O",
-      "O": "O",
-      "P": "O"
+      "documentId": "d2",
+      "documentName": "On the Vulnerability of Traffic Light Recognition Systems to Laser Illumination Attacks (Short)",
+      "risks": [
+        {
+          "id": "2",
+          "manufacturer": "TOYOTA",
+          "model": "altis",
+          "S": "O",
+          "F": "O",
+          "O": "O",
+          "P": "O"
+        },
+        {
+          "id": "3",
+          "manufacturer": "TESLA",
+          "model": "model3",
+          "S": "O",
+          "F": "O",
+          "O": "O",
+          "P": "O"
+        },
+        {
+          "id": "4",
+          "manufacturer": "TESLA",
+          "model": "modelY",
+          "S": "O",
+          "F": "O",
+          "O": "O",
+          "P": "O"
+        }
+      ]
     }
   ]
-]
+}
