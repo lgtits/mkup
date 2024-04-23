@@ -1,8 +1,8 @@
 {
-  "symposiumId": "s1",
-  "symposiumName": "Symposium on Vehicle Security and Privacy (VehicleSec) 2024 Program",
-  "symposiumDate": "2024-02-26",
-  "symposiumDocuments": [
+  "conferenceId": "s1",
+  "conferenceName": "Symposium on Vehicle Security and Privacy (VehicleSec) 2024 Program",
+  "conferenceDate": "2024-02-26",
+  "conferenceDocuments": [
     {
       "documentId": "d1",
       "documentName": "AVMON: Securing Autonomous Vehicles by Learning Control Invariants and Residual Prediction (Long)",
@@ -10,6 +10,7 @@
         {
           "riskId": "r1",
           "manufacturer": "TOYOTA",
+          "type": "",
           "model": "camry",
           "hierarchy": "vehicle",
           "S": "O",
@@ -20,6 +21,7 @@
         {
           "riskId": "r2",
           "manufacturer": "TOYOTA",
+          "type": "",
           "model": "altis",
           "hierarchy": "system",
           "S": "O",
@@ -30,6 +32,7 @@
         {
           "riskId": "r3",
           "manufacturer": "TESLA",
+          "type": "",
           "model": "model3",
           "hierarchy": "system",
           "S": "O",
@@ -40,6 +43,7 @@
         {
           "riskId": "r4",
           "manufacturer": "TESLA",
+          "type": "",
           "model": "modelY",
           "hierarchy": "component",
           "S": "O",
@@ -57,6 +61,7 @@
         {
           "riskId": "r5",
           "manufacturer": "TOYOTA",
+          "type": "",
           "model": "altis",
           "hierarchy": "vehicle",
           "S": "O",
@@ -67,6 +72,7 @@
         {
           "riskId": "r6",
           "manufacturer": "TESLA",
+          "type": "",
           "model": "model3",
           "hierarchy": "system",
           "S": "O",
@@ -77,6 +83,7 @@
         {
           "riskId": "r7",
           "manufacturer": "TESLA",
+          "type": "",
           "model": "modelY",
           "hierarchy": "component",
           "S": "O",
