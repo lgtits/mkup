@@ -1,0 +1,58 @@
+//result回傳值
+{
+  "type": "data",
+  "time": "2024-05-22T10:12:50.272Z",
+  "data": [[["<p>chatbot_message</p>", "<p>chatbot_response</p>"]], null],
+  "endpoint": "/predict",
+  "fn_index": 0
+}
+
+
+//更改:
+{
+    "type": "data",
+    "time": "2024-05-22T10:12:50.272Z",
+    "data": {
+      "result": {
+        "messages": [
+          {
+            "role": "user",
+            "messageId": "m12",
+            "message": "問題"
+          },
+          {
+            "role": "bot",
+            "messageId": "m999",
+            "message": "回答回答回答回答回答回答"
+          }
+        ]
+      }
+    },
+    "endpoint": "/predict",
+    "fn_index": 0
+}
+
+//或者
+{
+  "type": "data",
+  "time": "2024-05-22T10:12:50.272Z",
+  "data": [
+    [
+      [
+        {
+          "role": "user",
+          "messageId": "m12",
+          "message": "問題"
+        },
+        {
+          "role": "bot",
+          "messageId": "m999",
+          "message": "回答回答回答回答回答回答"
+        }
+      ]
+    ],
+    null
+  ],
+  "endpoint": "/predict",
+  "fn_index": 0
+}
