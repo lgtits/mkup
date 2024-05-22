@@ -1,0 +1,24 @@
+{
+  "result": {
+    "title": "書櫃99",
+    "id": "b99",
+    "created_at": "2024-03-20",
+    "updated_at": "2024-03-20",
+    "document_list": [
+      {
+        "data_key": "xxxxxx",
+        "conference": "xxxxxx",
+        "date": "2024-03-20",
+        "origin": "xxxxxx",
+        "name": "xxxxxx"
+      },
+      {
+        "data_key": "xxxxxx",
+        "conference": "xxxxxx",
+        "date": "2024-03-20",
+        "origin": "xxxxxx",
+        "name": "xxxxxx"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "result": {
+    "history_messages": [
+      {
+        "role": "user",
+        "messageId": "m1",
+        "message": "提問"
+      },
+      {
+        "role": "bot",
+        "messageId": "m2",
+        "message": "回答回答回答回答回答回答回答回答回答回答回答回答回答回答回答"
+      },
+      {
+        "role": "user",
+        "messageId": "m3",
+        "message": "提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問提問"
+      },
+      {
+        "role": "bot",
+        "messageId": "m4",
+        "message": "回答回答回答回答回答回答回答回答回答回答回答回答回答回答回答回答"
+      }
+    ]
+  }
+}
