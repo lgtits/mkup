@@ -1,0 +1,16 @@
+{
+  "result": {
+    "messages": [
+      {
+        "role": "user",
+        "messageId": "m12",
+        "message": "問題"
+      },
+      {
+        "role": "bot",
+        "messageId": "m999",
+        "message": "回答回答回答回答回答回答"
+      }
+    ]
+  }
+}
