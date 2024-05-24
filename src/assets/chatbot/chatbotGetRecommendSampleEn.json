@@ -1,0 +1,26 @@
+{
+  "result": {
+    "recommend_prompts": [
+      {
+        "title": "Article Summary",
+        "description": "Some explanation some explanation some explanation",
+        "prompt": "Please give me an article summary"
+      },
+      {
+        "title": "Default Question 1",
+        "description": "Some explanation some explanation some explanation",
+        "prompt": "Default Question 1 Default Question 1"
+      },
+      {
+        "title": "Default Question 2",
+        "description": "Some explanation some explanation some explanation",
+        "prompt": "Default Question 2 Default Question 2 Default Question 2 Default Question 2"
+      },
+      {
+        "title": "Default Question 3",
+        "description": "Some explanation some explanation some explanation",
+        "prompt": "Default Question 3 Default Question 3 Default Question 3 Default Question 3 Default Question 3 Default Question 3 Default Question 3 Default Question 3 Default Question 3 Default Question 3"
+      }
+    ]
+  }
+}
