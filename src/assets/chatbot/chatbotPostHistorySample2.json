@@ -1,10 +1,10 @@
 {
-    result: {
-      history_messages: [
-        ['request1', 'response1'],
-        ['request2', 'response2'],
-        ['request3', 'response3'],
-        ['request4', 'response4'],
-      ],
-    },
+  "result": {
+    "history_messages": [
+      ["request1", "response1"],
+      ["request2", "response2"],
+      ["request3", "response3"],
+      ["request4", "response4"]
+    ]
   }
+}
