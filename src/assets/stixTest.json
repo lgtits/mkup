@@ -1,0 +1,235 @@
+{
+    "type": "bundle",
+    "id": "bundle--1affa123-0a4f-4fc5-81c6-fc1b058f9e44",
+    "objects": [
+	{
+	    "type":"report",
+	    "spec_version":"2.1",
+	    "id":"report--e33ffe07-2f4c-48d8-b0af-ee2619d765cf",
+	    "created":"2015-05-15T09:12:16.432Z",
+	    "modified":"2015-05-15T09:12:16.432Z",
+	    "name":"The Key to Remote Vehicle Control:Autonomous Driving Domain Controller",
+	    "object_refs":[
+	    "attack-pattern--page53--6890ef75-ba17-f0d9-a5fd-6f4b02d8b798",
+	    "attack-pattern--page53--012439d2-806a-2475-541c-7cae0a818bf0",
+            "note--page14--fb7b3f1a-b3c8-6138-f950-d7b191dfca81"
+	    ],
+	    "published":"2013-02-19T00:00:00.000000Z",
+	    "description":""
+	},
+	{
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--NIO--1b3e10b3-c243-a6c7-56cb-b9baababaafd",
+            "created": "2013-04-14T13:07:49.812Z",
+            "modified": "2013-04-14T13:07:49.812Z",
+            "name": "NIO",
+            "identity_class": "organization",
+            "sectors": [
+                "technology"
+            ],
+            "contact_information": "hank@pymtech.com"
+        },
+	{
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--NVIDIA--4afd02bd-7d76-c42b-47f4-a4583f0309b2",
+            "created": "2013-04-14T13:07:49.812Z",
+            "modified": "2013-04-14T13:07:49.812Z",
+            "name": "NVIDIA",
+            "identity_class": "organization",
+            "sectors": [
+                "technology"
+            ],
+            "contact_information": "hank@pymtech.com"
+        },
+	{
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--Quaicomm--42d868af-3133-ab6b-4d93-fd3c0109cd46",
+            "created": "2013-04-14T13:07:49.812Z",
+            "modified": "2013-04-14T13:07:49.812Z",
+            "name": "Quaicomm",
+            "identity_class": "organization",
+            "sectors": [
+                "technology"
+            ],
+            "contact_information": "hank@pymtech.com"
+        },
+	{
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--infineon--b7793032-9fa3-1757-9977-97813924fd04",
+            "created": "2013-04-14T13:07:49.812Z",
+            "modified": "2013-04-14T13:07:49.812Z",
+            "name": "infineon",
+            "identity_class": "organization",
+            "sectors": [
+                "technology"
+            ],
+            "contact_information": "hank@pymtech.com"
+        },
+	{
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--TI--c5c01bc8-fed6-08f1-c380-29cc1c41607a",
+            "created": "2013-04-14T13:07:49.812Z",
+            "modified": "2013-04-14T13:07:49.812Z",
+            "name": "TI",
+            "identity_class": "organization",
+            "sectors": [
+                "technology"
+            ],
+            "contact_information": "hank@pymtech.com"
+        },
+	{
+            "type": "identity",
+            "spec_version": "2.1",
+            "id": "identity--Horizon--09dc3d89-64f1-5228-9844-1c6d04c0dad2",
+            "created": "2013-04-14T13:07:49.812Z",
+            "modified": "2013-04-14T13:07:49.812Z",
+            "name": "Horizon",
+            "identity_class": "organization",
+            "sectors": [
+                "technology"
+            ],
+            "contact_information": "hank@pymtech.com"
+        },
+        {
+            "type": "note",
+            "id": "note--page14--fb7b3f1a-b3c8-6138-f950-d7b191dfca81",
+            "abstract": "bom",
+            "name": "BOM",
+            "funny_page": "14",
+            "funny_year": "",
+            "funny_bom": [
+               {
+                 "Hierachy": "system",
+                 "Type":"ADAS",
+                 "Manufacturer": "NIO",
+                 "Model": ""
+               },
+	       {
+                 "Hierachy": "system",
+                 "Type":"SoC",
+                 "Manufacturer": "NVIDIA",
+                 "Model": "Orin-X"
+               },
+	       {
+                 "Hierachy": "system",
+                 "Type":"SoC",
+                 "Manufacturer": "Quaicomm",
+                 "Model": "SAB156"
+               },
+	       {
+                 "Hierachy": "Component",
+                 "Type":"MCU",
+                 "Manufacturer": "infineon",
+                 "Model": "TC399"
+               },
+	       {
+                 "Hierachy": "Component",
+                 "Type":"EMMC",
+                 "Manufacturer": "",
+                 "Model": ""
+               },
+	       {
+                 "Hierachy": "Component",
+                 "Type":"UFS",
+                 "Manufacturer": "",
+                 "Model": ""
+               }
+            ],
+	    "object_refs":[
+	    "identity--NIO--1b3e10b3-c243-a6c7-56cb-b9baababaafd",
+            "identity--NVIDIA--4afd02bd-7d76-c42b-47f4-a4583f0309b2",
+            "identity--Quaicomm--42d868af-3133-ab6b-4d93-fd3c0109cd46",
+            "identity--infineon--b7793032-9fa3-1757-9977-97813924fd04"
+	    ]
+        },
+	{
+            "type": "attack-pattern",
+ 	    "name": "Flash R/W",
+            "desciption": "Flash R/W",
+            "id": "attack-pattern--page53--6890ef75-ba17-f0d9-a5fd-6f4b02d8b798",
+            "kill_chain_phases": [
+       		{
+                "kill_chain_name": "mitre-attack",
+                "phase_name": "initial-access"
+       		}
+            ], 
+   	    "funny_page": "53",
+   	    "funny_year": "2024",
+   	    "funny_bom": [
+         	{
+           	"Hierachy": "System",
+           	"Type":"SoC",
+           	"Manufacturer": "TI",
+           	"Model": "TDA4NM"
+         	},
+		{
+           	"Hierachy": "Component",
+           	"Type":"EMMC",
+           	"Manufacturer": "",
+           	"Model": ""
+         	}
+       	    ],
+    	    "fuuny_sfop": ["s", "f", "o", "p"],
+	    "object_refs":[
+	    "identity--TI--c5c01bc8-fed6-08f1-c380-29cc1c41607a"
+	    ]
+        },
+  	{
+    	    "type": "relationship",
+    	    "spec_version": "2.1",
+    	    "id": "relationship--57b56a43-b8b0-4cba-9deb-34e3e1faed9e",
+    	    "created": "2016-05-12T08:17:27.000Z",
+    	    "modified": "2016-05-12T08:17:27.000Z",
+    	    "relationship_type": "targets",
+    	    "source_ref": "attack-pattern--page53--6890ef75-ba17-f0d9-a5fd-6f4b02d8b798",
+    	    "target_ref": "identity--TI--c5c01bc8-fed6-08f1-c380-29cc1c41607a"
+   	},
+	{
+            "type": "attack-pattern",
+ 	    "name": "Flash R/W",
+            "desciption": "Flash R/W",
+            "id": "attack-pattern--page53--012439d2-806a-2475-541c-7cae0a818bf0",
+            "kill_chain_phases": [
+       		{
+                "kill_chain_name": "mitre-attack",
+                "phase_name": "initial-access"
+       		}
+            ], 
+   	    "funny_page": "53",
+   	    "funny_year": "2024",
+   	    "funny_bom": [
+         	{
+           	"Hierachy": "System",
+           	"Type":"SoC",
+           	"Manufacturer": "Horizon",
+           	"Model": "Journey3"
+         	},
+		{
+           	"Hierachy": "Component",
+           	"Type":"EMMC",
+           	"Manufacturer": "",
+           	"Model": ""
+         	}
+       	    ],
+    	    "fuuny_sfop": ["s", "f", "o", "p"],
+	    "object_refs":[
+	    "identity--Horizon--09dc3d89-64f1-5228-9844-1c6d04c0dad2"
+	    ]
+        },
+  	{
+    	    "type": "relationship",
+    	    "spec_version": "2.1",
+    	    "id": "relationship--1a05ee57-9e8e-135f-9d1b-37b74bb66245",
+    	    "created": "2016-05-12T08:17:27.000Z",
+    	    "modified": "2016-05-12T08:17:27.000Z",
+    	    "relationship_type": "targets",
+    	    "source_ref": "attack-pattern--page53--012439d2-806a-2475-541c-7cae0a818bf0",
+    	    "target_ref": "identity--Horizon--09dc3d89-64f1-5228-9844-1c6d04c0dad2"
+   	}
+    ]
+}
