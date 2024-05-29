@@ -1,0 +1,64 @@
+{
+  "result": {
+    "data": [
+      {
+        "id": "1",
+        "nodes": [
+          {
+            "id": "n1",
+            "name": "Vehicle"
+          },
+          {
+            "id": "n2",
+            "name": "Parts & Accessories"
+          },
+          {
+            "id": "n3",
+            "name": "Car & Truck Parts & Accessories"
+          },
+          {
+            "id": "n4",
+            "name": "Brakes & Brake Parts"
+          },
+          {
+            "id": "n5",
+            "name": "Brakes & Brake Parts"
+          },
+          {
+            "id": "n6",
+            "name": "Additional ABS Parts"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "nodes": [
+          {
+            "id": "n1",
+            "name": "Vehicle"
+          },
+          {
+            "id": "n2",
+            "name": "Parts & Accessories"
+          },
+          {
+            "id": "n3",
+            "name": "Car & Truck Parts & Accessories"
+          },
+          {
+            "id": "n4",
+            "name": "Safety & Security Accessories"
+          },
+          {
+            "id": "n5",
+            "name": "Safety"
+          },
+          {
+            "id": "n6",
+            "name": "Other Safety Accessories"
+          }
+        ]
+      }
+    ]
+  }
+}
