@@ -3,11 +3,11 @@
     "history_messages": [
 
       [
-        "一个典型的卷积神经网路是如何运作的?",
+        "What are some key technologies mentioned in the report that are crucial for remote vehicle control?",
         "The report highlights several key technologies crucial for remote vehicle control, including advanced sensor fusion, real-time data processing, AI algorithms for decision-making, secure communication protocols, and robust system architectures that ensure safety and reliability. References: [1] The Key to Remote Vehicle Control: Autonomous Driving Domain Controller, url=www.google.com [2] The Key to Remote Vehicle Control: Autonomous Driving Domain Controller 2, url=www.google.com"
       ],
       [
-        "机器学习技术在哪些现代社会的方面表现出了强大的功能？",
+        "How does sensor fusion contribute to the functionality of an autonomous driving domain controller?",
         "Sensor fusion combines data from various sensors, such as cameras, radar, and LiDAR, to create a comprehensive understanding of the vehicle's environment. This allows the autonomous driving domain controller to make more accurate and reliable decisions. References: [1] The Key to Remote Vehicle Control: Autonomous Driving Domain Controller, url=www.google.com"
       ]
     ]
